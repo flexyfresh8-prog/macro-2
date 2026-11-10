@@ -1,0 +1,35 @@
+# --- Secrets ---
+.env
+*.token
+*.pat
+*_token*
+.secrets/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# --- Runtime data (user-generated) ---
+data/settings.json
+data/builds/*
+data/activity.db
+data/nth.db
+data/macros/*
+!data/macros/example_combo.json
+data/recordings/*
+
+# --- Build artifacts ---
+build/output/
+dist/
+*.spec.bak
+output/
+
+# --- OS / IDE ---
+Thumbs.db
+.DS_Store
+.idea/
+.vscode/

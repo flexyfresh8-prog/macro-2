@@ -1,0 +1,16 @@
+{
+  "format": "nth-macro",
+  "version": 1,
+  "id": "example001",
+  "name": "Example Combo",
+  "description": "Fruit Z -> Sword X -> Style Z with timed delays. Set each item's hotbar_key in data/catalog.json (or in the action config) before running.",
+  "loop": false,
+  "actions": [
+    {"type": "select_item", "item_id": "dough", "item_name": "Dough", "key": "2", "delay_before": 0.0, "delay_after": 0.15},
+    {"type": "key", "key": "Z", "hold": 0.05, "delay_before": 0.0, "delay_after": 0.5},
+    {"type": "select_item", "item_id": "cursed-dual-katana", "item_name": "Cursed Dual Katana", "key": "3", "delay_before": 0.0, "delay_after": 0.15},
+    {"type": "key", "key": "X", "hold": 0.05, "delay_before": 0.0, "delay_after": 0.3},
+    {"type": "select_item", "item_id": "godhuman", "item_name": "Godhuman", "key": "4", "delay_before": 0.0, "delay_after": 0.15},
+    {"type": "key", "key": "Z", "hold": 0.08, "delay_before": 0.0, "delay_after": 1.0}
+  ]
+}

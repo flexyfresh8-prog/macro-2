@@ -1,0 +1,1433 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "kitsune",
+      "name": "Kitsune",
+      "category": "fruit",
+      "tier": "mythical",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V",
+        "F"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "dragon",
+      "name": "Dragon",
+      "category": "fruit",
+      "tier": "mythical",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V",
+        "F"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "tiger",
+      "name": "Tiger",
+      "category": "fruit",
+      "tier": "mythical",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V",
+        "F"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "gas",
+      "name": "Gas",
+      "category": "fruit",
+      "tier": "mythical",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V",
+        "F"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "yeti",
+      "name": "Yeti",
+      "category": "fruit",
+      "tier": "mythical",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V",
+        "F"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "dough",
+      "name": "Dough",
+      "category": "fruit",
+      "tier": "mythical",
+      "aliases": [
+        "Dough King"
+      ],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V",
+        "F"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "t-rex",
+      "name": "T-Rex",
+      "category": "fruit",
+      "tier": "mythical",
+      "aliases": [
+        "Trex",
+        "T Rex"
+      ],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V",
+        "F"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "spirit",
+      "name": "Spirit",
+      "category": "fruit",
+      "tier": "mythical",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V",
+        "F"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "venom",
+      "name": "Venom",
+      "category": "fruit",
+      "tier": "mythical",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V",
+        "F"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "control",
+      "name": "Control",
+      "category": "fruit",
+      "tier": "mythical",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V",
+        "F"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "shadow",
+      "name": "Shadow",
+      "category": "fruit",
+      "tier": "mythical",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V",
+        "F"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "mammoth",
+      "name": "Mammoth",
+      "category": "fruit",
+      "tier": "mythical",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V",
+        "F"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "gravity",
+      "name": "Gravity",
+      "category": "fruit",
+      "tier": "mythical",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V",
+        "F"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "buddha",
+      "name": "Buddha",
+      "category": "fruit",
+      "tier": "legendary",
+      "aliases": [
+        "Buddha Fruit"
+      ],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V",
+        "F"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "portal",
+      "name": "Portal",
+      "category": "fruit",
+      "tier": "legendary",
+      "aliases": [
+        "Door"
+      ],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V",
+        "F"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "lightning",
+      "name": "Lightning",
+      "category": "fruit",
+      "tier": "legendary",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V",
+        "F"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "pain",
+      "name": "Pain",
+      "category": "fruit",
+      "tier": "legendary",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V",
+        "F"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "blizzard",
+      "name": "Blizzard",
+      "category": "fruit",
+      "tier": "legendary",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V",
+        "F"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "phoenix",
+      "name": "Phoenix",
+      "category": "fruit",
+      "tier": "legendary",
+      "aliases": [
+        "Phoenix Fruit"
+      ],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V",
+        "F"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "sound",
+      "name": "Sound",
+      "category": "fruit",
+      "tier": "legendary",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V",
+        "F"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "spider",
+      "name": "Spider",
+      "category": "fruit",
+      "tier": "legendary",
+      "aliases": [
+        "String"
+      ],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V",
+        "F"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "love",
+      "name": "Love",
+      "category": "fruit",
+      "tier": "legendary",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V",
+        "F"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "quake",
+      "name": "Quake",
+      "category": "fruit",
+      "tier": "legendary",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V",
+        "F"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "rumble",
+      "name": "Rumble",
+      "category": "fruit",
+      "tier": "rare",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V",
+        "F"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "ghost",
+      "name": "Ghost",
+      "category": "fruit",
+      "tier": "rare",
+      "aliases": [
+        "Revive"
+      ],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V",
+        "F"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "magma",
+      "name": "Magma",
+      "category": "fruit",
+      "tier": "rare",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V",
+        "F"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "barrier",
+      "name": "Barrier",
+      "category": "fruit",
+      "tier": "rare",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V",
+        "F"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "rubber",
+      "name": "Rubber",
+      "category": "fruit",
+      "tier": "rare",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V",
+        "F"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "light",
+      "name": "Light",
+      "category": "fruit",
+      "tier": "rare",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V",
+        "F"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "diamond",
+      "name": "Diamond",
+      "category": "fruit",
+      "tier": "rare",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V",
+        "F"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "dark",
+      "name": "Dark",
+      "category": "fruit",
+      "tier": "rare",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V",
+        "F"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "sand",
+      "name": "Sand",
+      "category": "fruit",
+      "tier": "rare",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V",
+        "F"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "ice",
+      "name": "Ice",
+      "category": "fruit",
+      "tier": "rare",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V",
+        "F"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "falcon",
+      "name": "Falcon",
+      "category": "fruit",
+      "tier": "common",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V",
+        "F"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "flame",
+      "name": "Flame",
+      "category": "fruit",
+      "tier": "common",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V",
+        "F"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "spike",
+      "name": "Spike",
+      "category": "fruit",
+      "tier": "common",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V",
+        "F"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "smoke",
+      "name": "Smoke",
+      "category": "fruit",
+      "tier": "common",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V",
+        "F"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "bomb",
+      "name": "Bomb",
+      "category": "fruit",
+      "tier": "common",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V",
+        "F"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "spring",
+      "name": "Spring",
+      "category": "fruit",
+      "tier": "common",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V",
+        "F"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "chop",
+      "name": "Chop",
+      "category": "fruit",
+      "tier": "common",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V",
+        "F"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "spin",
+      "name": "Spin",
+      "category": "fruit",
+      "tier": "common",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V",
+        "F"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "rocket",
+      "name": "Rocket",
+      "category": "fruit",
+      "tier": "common",
+      "aliases": [
+        "Kilo"
+      ],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V",
+        "F"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "cursed-dual-katana",
+      "name": "Cursed Dual Katana",
+      "category": "sword",
+      "tier": "endgame",
+      "aliases": [
+        "CDK"
+      ],
+      "keys": [
+        "Z",
+        "X",
+        "C"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "true-triple-katana",
+      "name": "True Triple Katana",
+      "category": "sword",
+      "tier": "endgame",
+      "aliases": [
+        "TTK"
+      ],
+      "keys": [
+        "Z",
+        "X",
+        "C"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "dark-blade",
+      "name": "Dark Blade",
+      "category": "sword",
+      "tier": "endgame",
+      "aliases": [
+        "Yoru"
+      ],
+      "keys": [
+        "Z",
+        "X",
+        "C"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "tushita",
+      "name": "Tushita",
+      "category": "sword",
+      "tier": "endgame",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "yama",
+      "name": "Yama",
+      "category": "sword",
+      "tier": "endgame",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "shark-anchor",
+      "name": "Shark Anchor",
+      "category": "sword",
+      "tier": "endgame",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "spikey-trident",
+      "name": "Spikey Trident",
+      "category": "sword",
+      "tier": "endgame",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "fox-lamp",
+      "name": "Fox Lamp",
+      "category": "sword",
+      "tier": "endgame",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "buddy-sword",
+      "name": "Buddy Sword",
+      "category": "sword",
+      "tier": "endgame",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "canvander",
+      "name": "Canvander",
+      "category": "sword",
+      "tier": "epic",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "dragon-trident",
+      "name": "Dragon Trident",
+      "category": "sword",
+      "tier": "epic",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "dark-dagger",
+      "name": "Dark Dagger",
+      "category": "sword",
+      "tier": "epic",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "koko",
+      "name": "Koko",
+      "category": "sword",
+      "tier": "epic",
+      "aliases": [
+        "Saddi"
+      ],
+      "keys": [
+        "Z",
+        "X",
+        "C"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "soul-cane",
+      "name": "Soul Cane",
+      "category": "sword",
+      "tier": "epic",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "dragonheart",
+      "name": "Dragonheart",
+      "category": "sword",
+      "tier": "epic",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "triple-dark-blade",
+      "name": "Triple Dark Blade",
+      "category": "sword",
+      "tier": "epic",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "bisento",
+      "name": "Bisento",
+      "category": "sword",
+      "tier": "rare",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "pole-1st-form",
+      "name": "Pole (1st Form)",
+      "category": "sword",
+      "tier": "rare",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "pole-2nd-form",
+      "name": "Pole (2nd Form)",
+      "category": "sword",
+      "tier": "rare",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "saber",
+      "name": "Saber",
+      "category": "sword",
+      "tier": "rare",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "shizu",
+      "name": "Shizu",
+      "category": "sword",
+      "tier": "rare",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "saishi",
+      "name": "Saishi",
+      "category": "sword",
+      "tier": "rare",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "trident",
+      "name": "Trident",
+      "category": "sword",
+      "tier": "rare",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "twin-hooks",
+      "name": "Twin Hooks",
+      "category": "sword",
+      "tier": "rare",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "shark-saw",
+      "name": "Shark Saw",
+      "category": "sword",
+      "tier": "rare",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "cutlass",
+      "name": "Cutlass",
+      "category": "sword",
+      "tier": "rare",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "gravity-cane",
+      "name": "Gravity Cane",
+      "category": "sword",
+      "tier": "rare",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "katana",
+      "name": "Katana",
+      "category": "sword",
+      "tier": "common",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "dual-katana",
+      "name": "Dual Katana",
+      "category": "sword",
+      "tier": "common",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "triple-katana",
+      "name": "Triple Katana",
+      "category": "sword",
+      "tier": "common",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "dog-blade",
+      "name": "Dog Blade",
+      "category": "sword",
+      "tier": "common",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "iron-mace",
+      "name": "Iron Mace",
+      "category": "sword",
+      "tier": "common",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "long-sword",
+      "name": "Long Sword",
+      "category": "sword",
+      "tier": "common",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "warden-sword",
+      "name": "Warden Sword",
+      "category": "sword",
+      "tier": "common",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "dual-headed-blade",
+      "name": "Dual-Headed Blade",
+      "category": "sword",
+      "tier": "common",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "flail",
+      "name": "Flail",
+      "category": "sword",
+      "tier": "common",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "pipe",
+      "name": "Pipe",
+      "category": "sword",
+      "tier": "common",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "fishing-trophy",
+      "name": "Fishing Trophy",
+      "category": "sword",
+      "tier": "common",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "combat",
+      "name": "Combat",
+      "category": "style",
+      "tier": "first_sea",
+      "aliases": [
+        "Basic Combat"
+      ],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "dark-step",
+      "name": "Dark Step",
+      "category": "style",
+      "tier": "first_sea",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "water-kung-fu",
+      "name": "Water Kung Fu",
+      "category": "style",
+      "tier": "first_sea",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "electric",
+      "name": "Electric",
+      "category": "style",
+      "tier": "first_sea",
+      "aliases": [
+        "Electro"
+      ],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "dragon-breath",
+      "name": "Dragon Breath",
+      "category": "style",
+      "tier": "first_sea",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "superhuman",
+      "name": "Superhuman",
+      "category": "style",
+      "tier": "second_sea",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "death-step",
+      "name": "Death Step",
+      "category": "style",
+      "tier": "second_sea",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "sharkman-karate",
+      "name": "Sharkman Karate",
+      "category": "style",
+      "tier": "second_sea",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "electric-claw",
+      "name": "Electric Claw",
+      "category": "style",
+      "tier": "second_sea",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "dragon-talon",
+      "name": "Dragon Talon",
+      "category": "style",
+      "tier": "second_sea",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "godhuman",
+      "name": "Godhuman",
+      "category": "style",
+      "tier": "master",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "sanguine-art",
+      "name": "Sanguine Art",
+      "category": "style",
+      "tier": "master",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    },
+    {
+      "id": "advanced-combat",
+      "name": "Advanced Combat",
+      "category": "style",
+      "tier": "master",
+      "aliases": [],
+      "keys": [
+        "Z",
+        "X",
+        "C",
+        "V"
+      ],
+      "hotbar_key": "",
+      "notes": ""
+    }
+  ]
+}
